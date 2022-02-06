@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "sourceMap": true,
+    "sourceRoot": "src",
+    "outDir": "dist",
+    "declaration": true,
+    "strict": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
