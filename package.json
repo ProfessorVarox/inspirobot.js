@@ -1,7 +1,7 @@
 {
     "name": "inspirobot.js",
     "description": "A node.js API wrapper for https://inspirobot.me",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository": "git@github.com:ProfessorVarox/inspirobot.js.git",
     "homepage": "https://github.com/ProfessorVarox/inspirobot.js",
     "main": "dist/index.js",
